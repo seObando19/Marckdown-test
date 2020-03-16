@@ -87,6 +87,16 @@ print('Hello world')
 
 <!--Github MARKDOWN-->
 * [x] Task 1
-* [] Task 2
-* [] Task 3
+* [ ] Task 2
+* [ ] Task 3
 * [x] Task 4
+
+___
+<!--Mencionar usuarios-->
+@faztweb
+
+<!--Emojis Github-->
+[Emojis Github](https://gist.github.com/rxaviers/7360908)
+
+@anfemoca19 :smiley: :+1:
+
